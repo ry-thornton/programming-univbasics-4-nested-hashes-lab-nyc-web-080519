@@ -86,7 +86,7 @@ yukihiro_matsumoto  = { :yukihiro_matsumoto => {
           :languages => ["C"]
         }
      }
-     programmer_hash[yukihiro_matsumoto]
+     programmer_hash[yukihiro_matsumoto]  
      return programmer_hash 
 
     
